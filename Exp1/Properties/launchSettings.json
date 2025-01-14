@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Exp1": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\MyCode\\network-programming-experiment\\Exp1\\Exp1\\login.html\r\n",
+      "hotReloadEnabled": false
+    }
+  }
+}
